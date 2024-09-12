@@ -1,2 +1,2 @@
-# stalwart_engine
-A 2D Game Engine
+# Stalwart Engine 
+A retro inspired 2D game engine written in C.
