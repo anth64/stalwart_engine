@@ -51,5 +51,6 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-# Clang language server config
+# language server configs
+.ccls
 .clangd
